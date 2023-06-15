@@ -13,7 +13,7 @@ export const Circle = styled(Link)`
   display: flex;
   justify-content: center;
   align-items: center;
-  font-size: 24px;
+  font-size: 18px;
   text-decoration: none;
 
   @media (max-width: 1024px) {

@@ -60,7 +60,7 @@ export const Title = styled.h1`
   display: flex;
   justify-content: left;
   margin-bottom: 50px;
-  margin-top: 50px;
+  margin-top: 20px;
 `
 
 export const Fliter = styled.div`
